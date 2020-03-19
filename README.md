@@ -1,4 +1,4 @@
-# **Web Scraping for Fun and Profit**
+# **Web Scraping for Baseball Stats**
 
 Collecting sports statistics is almost the &quot;Hello World&quot; of web scraping projects. Let&#39;s see if we can make it a little more interesting.
 
@@ -9,8 +9,6 @@ We will be using https://www.baseball-reference.com/ (https://www.baseball-refer
 **Japan Data**
 
 Japan Central League: https://www.baseball-reference.com/register/league.cgi?code=JPCL&amp;class=Fgn
-
-(https://www.baseball-reference.com/register/league.cgi?code=JPCL&amp;class=Fgn)
 
 The Japan Central League is composed of 6 teams, Chunichi Dragons, Hanshin Tigers, Hiroshima Carp, Yakult Swallows, Yokohama Bay Stars, Yomiuri Giants (actually, some years had more teams), with data stretching back to 1950 organized into a table of links for teams for each year. It should be a relatively easy task to scrape a list of links for each year (hint: think &quot;dictionary&quot;)
 
