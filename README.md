@@ -1,4 +1,4 @@
-**Web Scraping for Fun and Profit**
+# **Web Scraping for Fun and Profit**
 
 Collecting sports statistics is almost the &quot;Hello World&quot; of web scraping projects. Let&#39;s see if we can make it a little more interesting.
 
