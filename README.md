@@ -4,7 +4,7 @@ Collecting sports statistics is almost the &quot;Hello World&quot; of web scrapi
 
 **Data Source**
 
-We will be using https://www.baseball-reference.com/ (https://www.baseball-reference.com/) to gather our statistics. Their data is very well organized, and the HTML is well-labeled and easy to navigate.
+We will be using https://www.baseball-reference.com/ to gather our statistics. Their data is very well organized, and the HTML is well-labeled and easy to navigate.
 
 **Japan Data**
 
